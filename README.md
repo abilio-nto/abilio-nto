@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Abílio 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+com+5+anos+de+experiência;Apaixonado+por+tecnologia+e+inovação;React%2C+Node%2C+Spring+e+muito+mais!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+com+5+anos+de+experiência;Apaixonado+por+tecnologia+e+inovação;React%2C+Node%2C+Spring+e+muito+mais!" />
 </p>
 
 <div align="center">
